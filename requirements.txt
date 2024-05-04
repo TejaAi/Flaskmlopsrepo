@@ -1,0 +1,15 @@
+pandas 
+mlflow
+notebook
+numpy
+scikit-learn
+python-box==3.4.5
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+# -e. "It will say program look for the setup.py 
+-e.
