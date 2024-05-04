@@ -1,5 +1,6 @@
 import os
-from box.exceptions import BoxValueError
+from box import Box
+# from Box.exceptions import BoxValueError
 import yaml
 from mlProject import logger
 import json
